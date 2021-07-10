@@ -22,6 +22,8 @@
 **SSC**
 - School Name :S.V.L e.m high School<br>
 - Year of pass : 2016<br>
+- percentage : 68%
+- address : Madanapalle
 
 ### ***Skills**
 - html -90%
